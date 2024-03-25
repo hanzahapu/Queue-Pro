@@ -1,0 +1,8 @@
+Queue 1:
+binuri
+Queue 2:
+upali
+Queue 3:
+argentina
+van
+Remaining Burgers : 50
